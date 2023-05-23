@@ -27,7 +27,7 @@ py-heat-magic = {version = "0.0.2", optional = true}
 pydantic = "1.7.3"
 pyinstrument = {version = "3.3.0", optional = true}
 python = "3.9.1"
-requests = "2.25.1"
+requests = "2.31.0"
 snakeviz = {version = "2.1.0", optional = true}
 tabulate = "0.8.7"
 webargs = "6.1.1"
